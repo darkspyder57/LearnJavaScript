@@ -1,0 +1,17 @@
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-style: italic;
+    font-style: bold;
+    color: #000;
+    background-color: #a6ff00;
+    border-radius:5px;
+    border: 1px solid #333;
+    border-color:#333;
+    border-width:1px;
+    padding: 5px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
